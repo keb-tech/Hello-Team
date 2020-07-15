@@ -1,5 +1,7 @@
-console.log("Hello, Team!")
+console.log("Hello, Team!");
 
-console.log("Hi, Karlah!")
+console.log("Hi, Karlah!");
 
-console.log("Helllooooooo")
+console.log("Helllooooooo");
+
+console.log("HI");
